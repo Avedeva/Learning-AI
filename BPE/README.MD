@@ -1,5 +1,3 @@
-Here’s a clean, professional **README.md** for your BPE implementation project based on your code  — I’ve written it like something you can directly push to GitHub:
-
 ---
 
 # 📦 Byte Pair Encoding (BPE) from Scratch
