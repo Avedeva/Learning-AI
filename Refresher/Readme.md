@@ -1,4 +1,3 @@
-Here’s a **clean, strong README.md** tailored specifically for your repo (ANN + MNIST from scratch). You can paste this directly 👇
 
 ---
 
