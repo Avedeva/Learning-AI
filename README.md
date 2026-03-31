@@ -2,7 +2,7 @@
 
 # 🚀 Learning-AI
 
-> My journey of learning Artificial Intelligence by building everything from scratch.
+> My journey of learning Artificial Intelligence by building everything from scratch.    
 
 ---
 
