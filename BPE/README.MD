@@ -172,3 +172,5 @@ print(decoded)
 Give it a star ⭐ and try extending it!
 
 ---
+RESOURCE:-
+LLM TOKENIZER BY ANDREJ KARPATHY - https://www.youtube.com/watch?v=zduSFxRajkE&t=3425s
