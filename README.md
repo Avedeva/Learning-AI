@@ -86,6 +86,8 @@ jupyter notebook
 ## 👤 Author
 
 Suneet Mishra
-GitHub: [https://github.com/](https://github.com/Avedeva)]
-X: [https://x.com/Aveddeva69]
-Linkdin: [https://www.linkedin.com/in/suneet-mishra-68652a311/]
+GitHub: [https://github.com/](https://github.com/Avedeva)].
+
+X: [https://x.com/Aveddeva69].
+
+Linkdin: [https://www.linkedin.com/in/suneet-mishra-68652a311/].
